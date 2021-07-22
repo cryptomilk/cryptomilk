@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**cryptomilk/cryptomilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Samba, cmocka, libssh, darktable, LineageOS and more
+- 👯 I’m looking to collaborate on Free and Open Source Software
 
-Here are some ideas to get you started:
+## My Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://github.com/cryptomilk/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptomilk&show_icons=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptomilk&langs_count=8&layout=compact" />
+    </a>
+</p>
